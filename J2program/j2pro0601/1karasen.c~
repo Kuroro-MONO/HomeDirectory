@@ -1,0 +1,17 @@
+#include<stdio.h>
+
+int main(void){
+
+  int x;
+  int y;
+
+  while(x=1000){
+
+    x += y;
+
+    y++;
+  }
+  printf("%d",x);
+
+  return 0;
+}

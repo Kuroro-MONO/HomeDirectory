@@ -1,0 +1,52 @@
+[09:58:54] * message: info.j.kisarazu.ac.jp:143 へのIMAP4の接続を確立中...
+[09:59:09] IMAP4< * OK [CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL+ STARTTLS AUTH=PLAIN AUTH=LOGIN] Dovecot (Debian) ready.
+[09:59:09] IMAP4> 1 CAPABILITY
+[09:59:09] IMAP4< * CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL+ STARTTLS AUTH=PLAIN AUTH=LOGIN
+[09:59:09] IMAP4< 1 OK Pre-login capabilities listed, post-login capabilities have more.
+[09:59:09] IMAP4> 2 AUTHENTICATE PLAIN
+[09:59:09] IMAP4< + 
+[09:59:09] IMAP4> ****************
+[09:59:09] IMAP4< * CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE SORT SORT=DISPLAY THREAD=REFERENCES THREAD=REFS THREAD=ORDEREDSUBJECT MULTIAPPEND URL-PARTIAL CATENATE UNSELECT CHILDREN NAMESPACE UIDPLUS LIST-EXTENDED I18NLEVEL=1 CONDSTORE QRESYNC ESEARCH ESORT SEARCHRES WITHIN CONTEXT=SEARCH LIST-STATUS BINARY MOVE SNIPPET=FUZZY LITERAL+ NOTIFY SPECIAL-USE
+[09:59:09] IMAP4< 2 OK Logged in
+[09:59:09] IMAP4> 3 NAMESPACE
+[09:59:09] IMAP4< * NAMESPACE (("" ".")) NIL NIL
+[09:59:09] IMAP4< 3 OK Namespace completed (0.001 + 0.000 secs).
+[09:59:09] IMAP4> 4 LIST "" "*"
+[09:59:09] IMAP4< 4 OK List completed (0.012 + 0.000 + 0.011 secs).
+[09:59:09] IMAP4> 5 LIST "" Trash
+[09:59:09] IMAP4< 5 OK List completed (0.001 + 0.000 secs).
+[09:59:09] IMAP4> 6 CREATE Trash
+[09:59:09] IMAP4< 6 OK Create completed (0.005 + 0.000 + 0.004 secs).
+[09:59:09] IMAP4> 7 LIST "" Trash
+[09:59:09] IMAP4< * LIST (\HasNoChildren \Trash) "." Trash
+[09:59:09] IMAP4< 7 OK List completed (0.001 + 0.000 secs).
+[09:59:09] GLib-DEBUG: posix_spawn avoided (fd close requested) 
+[10:01:48] GdkPixbuf-DEBUG: gdk_pixbuf_from_pixdata() called on:
+[10:01:48] GdkPixbuf-DEBUG: 	Encoding rle
+[10:01:48] GdkPixbuf-DEBUG: 	Dimensions: 24 x 24
+[10:01:48] GdkPixbuf-DEBUG: 	Rowstride: 96, Length: 1574
+[10:01:48] GdkPixbuf-DEBUG: 	Copy pixels == false
+[10:01:48] GdkPixbuf-DEBUG: gdk_pixbuf_from_pixdata() called on:
+[10:01:48] GdkPixbuf-DEBUG: 	Encoding rle
+[10:01:48] GdkPixbuf-DEBUG: 	Dimensions: 24 x 24
+[10:01:48] GdkPixbuf-DEBUG: 	Rowstride: 96, Length: 1443
+[10:01:48] GdkPixbuf-DEBUG: 	Copy pixels == false
+[10:01:48] GdkPixbuf-DEBUG: gdk_pixbuf_from_pixdata() called on:
+[10:01:48] GdkPixbuf-DEBUG: 	Encoding rle
+[10:01:48] GdkPixbuf-DEBUG: 	Dimensions: 24 x 24
+[10:01:48] GdkPixbuf-DEBUG: 	Rowstride: 96, Length: 1159
+[10:01:48] GdkPixbuf-DEBUG: 	Copy pixels == false
+[10:16:52] * message: SMTPサーバ: info.j.kisarazu.ac.jp に接続中...
+[10:16:52] SMTP< 220 info.j.kisarazu.ac.jp ESMTP Postfix (CentOS)
+[10:16:52] SMTP> HELO J4F121.4f.j.kisarazu.ac.jp
+[10:16:52] SMTP< 250 info.j.kisarazu.ac.jp
+[10:16:52] SMTP> MAIL FROM:<j20439@j.kisarazu.ac.jp>
+[10:16:52] SMTP< 250 2.1.0 Ok
+[10:16:52] SMTP> RCPT TO:<yoshizawa@j.kisarazu.ac.jp>
+[10:16:52] SMTP< 250 2.1.5 Ok
+[10:16:52] SMTP> DATA
+[10:16:52] SMTP< 354 End data with <CR><LF>.<CR><LF>
+[10:16:52] SMTP> . (EOM)
+[10:16:52] SMTP< 250 2.0.0 Ok: queued as AFB853FE22
+[10:16:52] SMTP> QUIT
+[10:16:52] SMTP< 221 2.0.0 Bye

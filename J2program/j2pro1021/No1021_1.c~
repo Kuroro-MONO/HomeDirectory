@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+#define NUM 10
+
+int main{
+  int *pt;
+  int a[NUM];
+  pt = a;
+
+  for(i=0;i<NUM;i++){
+    

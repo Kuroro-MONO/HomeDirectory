@@ -1,0 +1,21 @@
+2022/01/06-12:57:04.210 92e Reusing MANIFEST /home/student/j20/j20439/.config/Microsoft/Microsoft Teams/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/06-12:57:04.220 92e Recovering log #21
+2022/01/06-12:57:04.245 92e Reusing old log /home/student/j20/j20439/.config/Microsoft/Microsoft Teams/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/000021.log 
+2022/01/06-12:57:04.247 92e Delete type=2 #18
+2022/01/06-12:57:04.247 92e Delete type=2 #17
+2022/01/06-12:57:04.247 92e Delete type=2 #19
+2022/01/06-12:57:14.170 9f2 Level-0 table #29: started
+2022/01/06-12:57:14.204 9f2 Level-0 table #29: 1629558 bytes OK
+2022/01/06-12:57:14.208 9f2 Delete type=0 #21
+2022/01/06-12:57:14.992 9f2 Compacting 1@1 + 4@2 files
+2022/01/06-12:57:15.066 9f2 Generated table #30@1: 7578 keys, 2154307 bytes
+2022/01/06-12:57:15.133 9f2 Generated table #31@1: 508 keys, 2124704 bytes
+2022/01/06-12:57:15.219 9f2 Generated table #32@1: 564 keys, 2123144 bytes
+2022/01/06-12:57:15.253 9f2 Generated table #33@1: 6523 keys, 919069 bytes
+2022/01/06-12:57:15.253 9f2 Compacted 1@1 + 4@2 files => 7321224 bytes
+2022/01/06-12:57:15.254 9f2 compacted to: files[ 0 0 4 0 0 0 0 ]
+2022/01/06-12:57:15.258 9f2 Delete type=2 #25
+2022/01/06-12:57:15.259 9f2 Delete type=2 #23
+2022/01/06-12:57:15.260 9f2 Delete type=2 #26
+2022/01/06-12:57:15.261 9f2 Delete type=2 #24
+2022/01/06-12:57:15.262 9f2 Delete type=2 #29

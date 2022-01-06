@@ -1,0 +1,13 @@
+#include<stdio.h>
+void count(char array[]){
+  int i;
+  for(i=0;array[i]!='\0';i++);
+  printf("%d\n",i);
+}
+int main(void){
+  char array[] = "programming";
+  count(array);
+
+  return 0;
+    
+}  

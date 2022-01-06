@@ -1,0 +1,4 @@
+<Action><Time>1640132557</Time><Act>ViewMode</Act><ID>e5 83 b2 4d f8 a9 fd 8d-fb e0 b1 ff dd bb 53 a1</ID><Detail>Console</Detail></Action>
+<Action><Time>1640132557</Time><Act>PowerOnVM</Act><ID>e5 83 b2 4d f8 a9 fd 8d-fb e0 b1 ff dd bb 53 a1</ID><Detail>windows9</Detail></Action>
+<Action><Time>1640132557</Time><Act>HardwareVersion</Act><ID>e5 83 b2 4d f8 a9 fd 8d-fb e0 b1 ff dd bb 53 a1</ID><Detail>11</Detail></Action>
+<Action><Time>1640132632</Time><Act>FullOSName</Act><ID>e5 83 b2 4d f8 a9 fd 8d-fb e0 b1 ff dd bb 53 a1</ID><Detail>Windows 10, 32-bit  (Build 19042)</Detail></Action>

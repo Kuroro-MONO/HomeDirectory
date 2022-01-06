@@ -1,0 +1,11 @@
+8
+
+https://kosenjp.sharepoint.com/
+https://kosenjp.sharepoint.com/_layouts/15/odspserviceworkerproxy.aspx?swManifestName=stsserviceworker&swPrefetchManifestName=stsserviceworkerprefetch&bypass=false
+true
+{5879986e-3f6e-4949-bd7a-0eb180e72c02}
+2
+1606791763813300
+1606791764146849
+1606791760309095
+#

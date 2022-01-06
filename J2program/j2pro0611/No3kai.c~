@@ -1,0 +1,49 @@
+#include<stdio.h>
+int is3bai(int x);
+int iscon3(int x);
+int main(void){
+  int x;
+  int y;
+  y=0;
+  
+  scanf("%d",&x);
+  if(x<=100000){
+
+    while(y<=x){
+
+      if(is3bai(x) || iscon3(x)){
+	printf("imadesyo\n");
+      }
+      else{
+	printf("ituyaruno?\n");
+      }
+    }
+      y++;
+    }
+    else{
+      printf("error -1\n");
+    }
+
+return 0;
+}
+
+ int is3bai(int x){
+   
+   if((x%3)==0){
+     return 1;
+   }
+   else{
+     return 0;
+   }
+ }
+
+   int iscon3(int x) {
+     while(x>=0){
+       if((x%10)==3){
+	 return 1;
+       }
+       x=x/10;
+     }
+     return 0;
+     
+   }

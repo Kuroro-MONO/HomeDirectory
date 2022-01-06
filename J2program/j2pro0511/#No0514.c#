@@ -1,0 +1,22 @@
+#include <stdio.h>
+
+int function(int a);
+
+int main(void)
+{
+  int x;
+  double y;
+
+  scanf("%d",&x);
+  y=function(b);
+
+  printf("pond=%f\n",y);
+
+  return 0;
+}
+
+int function(int a){
+
+  double b;
+
+ b = a * 0.453592

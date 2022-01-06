@@ -1,0 +1,31 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+void initArray();
+
+int array[26];
+int ramnum[5];
+
+int main (void){
+  int val;
+  int i;
+  int a=26;
+  initArray();
+  srand((unsigned)time(NULL));
+  for(i=0;i<5;i++){
+    val=rand()%a;
+    printf("%c",array[val]);
+    ramnum[val]=array
+    
+  }
+  printf("\n");
+
+  return 0;
+}
+void initArray(){
+  int i=0;
+  for(char c = 'A';c<='Z';c++){
+    array[i]=c;
+    i++;
+  }
+}

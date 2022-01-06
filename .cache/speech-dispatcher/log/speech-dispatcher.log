@@ -1,0 +1,80 @@
+[Fri Dec 24 09:49:39 2021 : 888215] speechd:   Speech Dispatcher Logging to file /home/student/j20/j20439/.cache/speech-dispatcher/log//speech-dispatcher.log
+[Fri Dec 24 09:49:39 2021 : 889895] speechd:  Configuration has been read from "/etc/speech-dispatcher/speechd.conf"
+[Fri Dec 24 09:49:39 2021 : 954748] speechd:  Initializing output module espeak-ng with binary /usr/lib/speech-dispatcher-modules/sd_espeak-ng and configuration /etc/speech-dispatcher/modules/espeak-ng.conf
+[Fri Dec 24 09:49:39 2021 : 954763] speechd:   Output module is logging to file /home/student/j20/j20439/.cache/speech-dispatcher/log//espeak-ng.log
+[Fri Dec 24 09:49:39 2021 : 955050] speechd:  Module espeak-ng loaded.
+[Fri Dec 24 09:49:40 2021 : 533258] speechd:  Module espeak-ng started successfully with message: 
+---------------
+Espeak-ng: Initialized successfully.
+---------------
+
+[Fri Dec 24 09:49:40 2021 : 552311] speechd:  Error: Module reported error in request from speechd (code 3xx): 300-Opening sound device failed. Reason: Couldn't open pulse plugin. 
+300 UNKNOWN ERROR
+.
+[Fri Dec 24 09:49:40 2021 : 552327] speechd: ERROR: Can't initialize audio in output module, see reason above.
+[Fri Dec 24 09:49:40 2021 : 554788] speechd:  Initializing output module generic with binary /usr/lib/speech-dispatcher-modules/sd_generic and configuration /etc/speech-dispatcher/modules/generic.conf
+[Fri Dec 24 09:49:40 2021 : 554801] speechd:   Output module is logging to file /home/student/j20/j20439/.cache/speech-dispatcher/log//generic.log
+[Fri Dec 24 09:49:40 2021 : 555099] speechd:  Module generic loaded.
+[Fri Dec 24 09:49:40 2021 : 571750] speechd:  Module generic started successfully with message: 
+---------------
+Everything ok so far.
+---------------
+
+[Fri Dec 24 09:49:40 2021 : 581791] speechd:  Error: Module reported error in request from speechd (code 3xx): 300-Opening sound device failed. Reason: Couldn't open pulse plugin. 
+300 UNKNOWN ERROR
+.
+[Fri Dec 24 09:49:40 2021 : 581811] speechd: ERROR: Can't initialize audio in output module, see reason above.
+[Fri Dec 24 09:49:40 2021 : 583889] speechd:  Initializing output module dummy with binary /usr/lib/speech-dispatcher-modules/sd_dummy and configuration /etc/speech-dispatcher/modules/dummy.conf
+[Fri Dec 24 09:49:40 2021 : 584375] speechd:   Output module is logging to file /home/student/j20/j20439/.cache/speech-dispatcher/log//dummy.log
+[Fri Dec 24 09:49:40 2021 : 584656] speechd:  Module dummy loaded.
+[Fri Dec 24 09:49:40 2021 : 590028] speechd:  Module dummy started successfully with message: 
+---------------
+Everything ok so far.
+---------------
+
+[Fri Dec 24 09:49:40 2021 : 596828] speechd:  Error: Module reported error in request from speechd (code 3xx): 300-Opening sound device failed. Reason: Couldn't open pulse plugin. 
+300 UNKNOWN ERROR
+.
+[Fri Dec 24 09:49:40 2021 : 596843] speechd: ERROR: Can't initialize audio in output module, see reason above.
+[Fri Dec 24 09:49:40 2021 : 598563] speechd:   Speech Dispatcher Logging to file /home/student/j20/j20439/.cache/speech-dispatcher/log//speech-dispatcher.log
+[Fri Dec 24 09:49:40 2021 : 598607] speechd: Error [speechd.c:650]:No speech output modules were loaded - aborting...
+[Thu Jan  6 13:06:43 2022 : 470952] speechd:   Speech Dispatcher Logging to file /home/student/j20/j20439/.cache/speech-dispatcher/log//speech-dispatcher.log
+[Thu Jan  6 13:06:43 2022 : 473183] speechd:  Configuration has been read from "/etc/speech-dispatcher/speechd.conf"
+[Thu Jan  6 13:06:43 2022 : 525753] speechd:  Initializing output module espeak-ng with binary /usr/lib/speech-dispatcher-modules/sd_espeak-ng and configuration /etc/speech-dispatcher/modules/espeak-ng.conf
+[Thu Jan  6 13:06:43 2022 : 525764] speechd:   Output module is logging to file /home/student/j20/j20439/.cache/speech-dispatcher/log//espeak-ng.log
+[Thu Jan  6 13:06:43 2022 : 526003] speechd:  Module espeak-ng loaded.
+[Thu Jan  6 13:06:44 2022 : 427937] speechd:  Module espeak-ng started successfully with message: 
+---------------
+Espeak-ng: Initialized successfully.
+---------------
+
+[Thu Jan  6 13:06:44 2022 : 455011] speechd:  Error: Module reported error in request from speechd (code 3xx): 300-Opening sound device failed. Reason: Couldn't open pulse plugin. 
+300 UNKNOWN ERROR
+.
+[Thu Jan  6 13:06:44 2022 : 455039] speechd: ERROR: Can't initialize audio in output module, see reason above.
+[Thu Jan  6 13:06:44 2022 : 456400] speechd:  Initializing output module generic with binary /usr/lib/speech-dispatcher-modules/sd_generic and configuration /etc/speech-dispatcher/modules/generic.conf
+[Thu Jan  6 13:06:44 2022 : 456416] speechd:   Output module is logging to file /home/student/j20/j20439/.cache/speech-dispatcher/log//generic.log
+[Thu Jan  6 13:06:44 2022 : 456744] speechd:  Module generic loaded.
+[Thu Jan  6 13:06:44 2022 : 475404] speechd:  Module generic started successfully with message: 
+---------------
+Everything ok so far.
+---------------
+
+[Thu Jan  6 13:06:44 2022 : 484955] speechd:  Error: Module reported error in request from speechd (code 3xx): 300-Opening sound device failed. Reason: Couldn't open pulse plugin. 
+300 UNKNOWN ERROR
+.
+[Thu Jan  6 13:06:44 2022 : 484966] speechd: ERROR: Can't initialize audio in output module, see reason above.
+[Thu Jan  6 13:06:44 2022 : 486696] speechd:  Initializing output module dummy with binary /usr/lib/speech-dispatcher-modules/sd_dummy and configuration /etc/speech-dispatcher/modules/dummy.conf
+[Thu Jan  6 13:06:44 2022 : 487110] speechd:   Output module is logging to file /home/student/j20/j20439/.cache/speech-dispatcher/log//dummy.log
+[Thu Jan  6 13:06:44 2022 : 487371] speechd:  Module dummy loaded.
+[Thu Jan  6 13:06:44 2022 : 493013] speechd:  Module dummy started successfully with message: 
+---------------
+Everything ok so far.
+---------------
+
+[Thu Jan  6 13:06:44 2022 : 498830] speechd:  Error: Module reported error in request from speechd (code 3xx): 300-Opening sound device failed. Reason: Couldn't open pulse plugin. 
+300 UNKNOWN ERROR
+.
+[Thu Jan  6 13:06:44 2022 : 498842] speechd: ERROR: Can't initialize audio in output module, see reason above.
+[Thu Jan  6 13:06:44 2022 : 500534] speechd:   Speech Dispatcher Logging to file /home/student/j20/j20439/.cache/speech-dispatcher/log//speech-dispatcher.log
+[Thu Jan  6 13:06:44 2022 : 500552] speechd: Error [speechd.c:650]:No speech output modules were loaded - aborting...

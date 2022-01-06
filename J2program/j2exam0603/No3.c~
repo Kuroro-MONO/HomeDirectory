@@ -1,0 +1,21 @@
+#include<stdio.h>
+
+int main(void){
+  int x;
+  int y;
+  y=0;
+  
+  scanf("%d",&x);
+
+  while(y<=x){
+
+    if(y%3==0){
+
+      printf("%d: imadesyo",y);
+      y++;
+    }
+    else{
+      printf("%d:ituyaruka",y);
+      y++;
+    }
+    

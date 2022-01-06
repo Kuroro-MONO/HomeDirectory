@@ -1,0 +1,12 @@
+[Added Associations]
+application/vnd.oasis.opendocument.spreadsheet=libreoffice-calc.desktop;
+application/pdf=libreoffice-impress.desktop;AdobeReader.desktop;
+application/vnd.oasis.opendocument.graphics=libreoffice-impress.desktop;libreoffice-draw.desktop;
+application/vnd.openxmlformats-officedocument.presentationml.presentation=libreoffice-impress.desktop;
+image/svg+xml=libreoffice-impress.desktop;
+application/vnd.oasis.opendocument.presentation=libreoffice-impress.desktop;
+text/x-csrc=emacs-term.desktop;
+
+[Default Applications]
+application/pdf=libreoffice-impress.desktop
+x-scheme-handler/msteams=teams.desktop

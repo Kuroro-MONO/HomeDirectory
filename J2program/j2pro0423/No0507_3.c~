@@ -1,0 +1,29 @@
+#include <stdio.h>
+
+int ruijyo(int x,int y);
+{
+  int num;
+  int z;
+  z=0;
+
+  while(z=y){
+    num = x * 1;
+      z++;
+  }
+
+  return num;
+}
+
+int main(void)
+{
+  int a,b,c;
+  scanf("%d",&a);
+  scanf("%d",&b);
+
+  c=ruijyo(a,b);
+  printf("%d",c);
+
+  return 0;
+}
+  
+  

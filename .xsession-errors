@@ -1,0 +1,62 @@
+Xsession: X session started for j20439 at 2022年  1月  6日 木曜日 12:56:24 JST
+dbus-update-activation-environment: systemd --user not found, ignoring --systemd argument
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/student/j20/j20439/.Xauthority
+localuser:j20439 being added to access control list
+dbus-update-activation-environment: systemd --user not found, ignoring --systemd argument
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: systemd --user not found, ignoring --systemd argument
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: systemd --user not found, ignoring --systemd argument
+dbus-update-activation-environment: setting USER=j20439
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting HOME=/home/student/j20/j20439
+dbus-update-activation-environment: setting QT4_IM_MODULE=ibus
+dbus-update-activation-environment: setting DESKTOP_SESSION=xfce
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-1iEXj2TEYP,guid=8c14972747623b8afc4a72d861d66869
+dbus-update-activation-environment: setting GNOME_KEYRING_CONTROL=/home/student/j20/j20439/.cache/keyring-5B8JF1
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting LOGNAME=j20439
+dbus-update-activation-environment: setting GTK_IM_MODULE=ibus
+dbus-update-activation-environment: setting PATH=/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games
+dbus-update-activation-environment: setting GDM_LANG=ja_JP.utf8
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting LANG=ja_JP.UTF-8
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=XFCE
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=xfce
+dbus-update-activation-environment: setting XAUTHORITY=/home/student/j20/j20439/.Xauthority
+dbus-update-activation-environment: setting XMODIFIERS=@im=ibus
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm/data/j20439
+dbus-update-activation-environment: setting SHELL=/bin/zsh
+dbus-update-activation-environment: setting GDMSESSION=xfce
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/home/student/j20/j20439/.gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting QT_IM_MODULE=ibus
+dbus-update-activation-environment: setting PWD=/home/student/j20/j20439
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share/:/usr/share/
+dbus-update-activation-environment: setting CLUTTER_IM_MODULE=ibus
+/usr/bin/startxfce4: X server already running on display :0
+xfce4-session-Message: 12:56:27.893: SSH authentication agent is already running
+gpg-agent[1666]: *警告*: "--write-env-file"は、使われなくなったオプションです - なんの効果もありません
+gpg-agent[1667]: gpg-agent (GnuPG) 2.2.12 started
+
+(xfce4-session:1599): xfce4-session-WARNING **: 12:56:27.923: gpg-agent returned no PID in the variables
+
+(xfwm4:1668): xfwm4-WARNING **: 12:56:28.959: Error opening /dev/dri/card0: 許可がありません
+接続失敗: 接続拒否
+pa_context_connect() は失敗: 接続拒否
+
+(xfce4-session:1599): xfce4-session-WARNING **: 12:56:36.218: Unable to launch "system-config-printer-applet" (specified by autostart/print-applet.desktop): Failed to execute child process “system-config-printer-applet” (そのようなファイルやディレクトリはありません)
+
+(xfce4-session:1599): xfce4-session-WARNING **: 12:56:37.339: Unable to launch "/usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1" (specified by autostart/polkit-gnome-authentication-agent-1.desktop): Failed to execute child process “/usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1” (そのようなファイルやディレクトリはありません)
+
+** (zeitgeist-datahub:1768): WARNING **: 12:56:38.573: zeitgeist-datahub.vala:224: Unable to get name "org.gnome.zeitgeist.datahub" on the bus!
+
+(xfce4-session:1599): xfce4-session-WARNING **: 12:56:40.139: Unable to launch "xfce4-volumed" (specified by autostart/xfce4-volumed.desktop): Failed to execute child process “xfce4-volumed” (そのようなファイルやディレクトリはありません)
+(uint32 1,)
+# watch_fast: "/org/gnome/terminal/legacy/" (establishing: 0, active: 0)
+# unwatch_fast: "/org/gnome/terminal/legacy/" (active: 0, establishing: 1)
+# watch_established: "/org/gnome/terminal/legacy/" (establishing: 0)

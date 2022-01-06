@@ -1,0 +1,30 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+#define NUM 30
+
+void dispString_Odd(char box[]);
+
+int main(void)
+{
+  char box[NUM+1];
+
+  srand(730);
+
+  int i=0;
+  while(i<NUM){
+    box[i]=dispString_Odd('a','z');
+    i++;
+  }
+
+  printf("%s\n",box);
+
+  return 0;
+}
+
+
+void dispString_Odd(char box[]){
+  for(int i=0;i<30;i++){
+    str[i]=rand()%('z'+1-'a')+'a';
+  }
+}

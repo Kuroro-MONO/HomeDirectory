@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+#define NUM 
+
+int main(void){
+  
+  return 0;
+}
+char my_toupper(char ch){
+
+  if(char ch

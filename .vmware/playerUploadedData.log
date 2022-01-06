@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<VMwareUserExperienceProgram version="1.0">
+  <HostUUID>52 2a 5f d7 42 cc 27 a7-93 84 2c 3a 9e 89 fd 96</HostUUID>
+  <VMwareProductName>VMware Player</VMwareProductName>
+  <VMwareProductVersion>12.5.7 S</VMwareProductVersion>
+  <VMwareProductBuild>5813279</VMwareProductBuild>
+  <VMwareLicense>None</VMwareLicense>
+  <HostOS>Linux</HostOS>
+  <HostArch>x86_64</HostArch>
+  <HostVersion>Linux 4.9.0-8-amd64 Debian GNU/Linux 9.5 (stretch)</HostVersion>
+  <HostLocale>C</HostLocale>
+  <AppLocale>en</AppLocale>
+  <OptionalData>
+    <HostModel/>
+    <HostCPUID>00000000:0000000D756E65476C65746E49656E69-00000001:000306C3001008004DDAEBBFBFEBFBFF-0000000A:07300803000000000000000000000603-80000000:80000008000000000000000000000000-80000001:0000000000000000000000212C100800-80000008:00003027000000000000000000000000</HostCPUID>
+    <HostLogicalCores>2</HostLogicalCores>
+    <HostRAMinMB>7936</HostRAMinMB>
+    <EnableThinPrint>true</EnableThinPrint>
+    <HasKeyboardFilter>false</HasKeyboardFilter>
+    <HostDisplayList>
+      <HostDisplay>
+        <DisplayWidth>1920</DisplayWidth>
+        <DisplayHeight>1080</DisplayHeight>
+      </HostDisplay>
+    </HostDisplayList>
+    <ActionLog>
+      <Action>
+        <Time>1639526378</Time>
+        <Act>ViewMode</Act>
+        <ID>e5 83 b2 4d f8 a9 fd 8d-fb e0 b1 ff dd bb 53 a1</ID>
+        <Detail>Console</Detail>
+      </Action>
+      <Action>
+        <Time>1639526378</Time>
+        <Act>PowerOnVM</Act>
+        <ID>e5 83 b2 4d f8 a9 fd 8d-fb e0 b1 ff dd bb 53 a1</ID>
+        <Detail>windows9</Detail>
+      </Action>
+      <Action>
+        <Time>1639526378</Time>
+        <Act>HardwareVersion</Act>
+        <ID>e5 83 b2 4d f8 a9 fd 8d-fb e0 b1 ff dd bb 53 a1</ID>
+        <Detail>11</Detail>
+      </Action>
+      <Action>
+        <Time>1639526452</Time>
+        <Act>FullOSName</Act>
+        <ID>e5 83 b2 4d f8 a9 fd 8d-fb e0 b1 ff dd bb 53 a1</ID>
+        <Detail>Windows 10, 32-bit  (Build 19042)</Detail>
+      </Action>
+    </ActionLog>
+  </OptionalData>
+</VMwareUserExperienceProgram>

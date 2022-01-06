@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///local/vmware/Windows10/Windows10.vmx" added="2021-12-16T04:40:39Z" modified="2021-12-16T04:40:39Z" visited="2021-12-16T04:40:39Z">
+    <title>Windows10</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-vmware-vm"/>
+        <bookmark:applications>
+          <bookmark:application name="VMware Player" exec="&apos;vmplayer file:///local/vmware/Windows10/Windows10.vmx&apos;" modified="2021-12-14T23:59:38Z" count="11"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/student/j20/j20439/J2program/processing/processing/practice/step2_7/step2_7.pde" added="2021-12-16T04:43:25Z" modified="2021-12-16T04:43:25Z" visited="2021-12-16T04:43:26Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="java" exec="&apos;java %u&apos;" modified="2021-12-16T04:43:25Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/student/j20/j20439/J2program/processing/processing/practice/step3_1/step3_1.pde" added="2021-12-16T04:59:54Z" modified="2021-12-16T04:59:54Z" visited="2021-12-16T04:59:55Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="java" exec="&apos;java %u&apos;" modified="2021-12-16T04:59:54Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/student/j20/j20439/J2program/processing/processing/Edatos/Edatos.pde" added="2021-12-16T05:01:52Z" modified="2021-12-24T00:48:04Z" visited="2021-12-16T05:01:52Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="java" exec="&apos;java %u&apos;" modified="2021-12-24T00:48:04Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/student/j20/j20439/J2program/processing/processing/Edatos/Ship.pde" added="2021-12-16T05:02:18Z" modified="2021-12-16T05:02:18Z" visited="2021-12-16T05:02:19Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="java" exec="&apos;java %u&apos;" modified="2021-12-16T05:02:18Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/student/j20/j20439/%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89/jitensya_cycling_man.png" added="2021-12-24T00:50:19Z" modified="2021-12-24T01:05:08Z" visited="2021-12-24T00:50:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2021-12-24T01:05:08Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/student/j20/j20439/%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89/bikeman.png" added="2021-12-24T01:06:45Z" modified="2021-12-24T01:06:45Z" visited="2021-12-24T01:06:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2021-12-24T01:06:45Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/student/j20/j20439/sketchbook/tharisou" added="2021-12-24T01:25:49Z" modified="2021-12-24T01:25:49Z" visited="2021-12-24T01:25:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="java" exec="&apos;java %u&apos;" modified="2021-12-24T01:25:49Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/student/j20/j20439/sketchbook/tharisou/tharisou.pde" added="2022-01-06T04:14:22Z" modified="2022-01-06T04:14:22Z" visited="2022-01-06T04:14:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="java" exec="&apos;java %u&apos;" modified="2022-01-06T04:14:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

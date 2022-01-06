@@ -1,0 +1,14 @@
+#include<stdio.h>
+#include<stdlib.h>
+
+int main(void){
+  int floor;
+  int room;
+  floor=rand%5+1*100
+  room=rand%5+1
+
+    printf("%d",floor+room);
+
+  return 0;
+
+}

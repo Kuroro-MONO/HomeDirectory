@@ -1,0 +1,9 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+int main{
+  int i;
+  srand((unsigned)time(NULL));
+  int array[i]=""
+    for(i=0;i<=100;i++){
+			rand()%('z'-'a')+'a'		

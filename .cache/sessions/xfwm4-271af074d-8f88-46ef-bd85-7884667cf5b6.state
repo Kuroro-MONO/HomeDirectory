@@ -1,0 +1,42 @@
+[CLIENT] 0x2e00041
+  [CLIENT_LEADER] 0x2e00008
+  [RES_NAME] sun-awt-X11-XFramePeer
+  [RES_CLASS] Processing
+  [WM_NAME] tharisou | Processing 3.4
+  [GEOMETRY] (-21,60,713,656)
+  [GEOMETRY-MAXIMIZED] (-21,60,694,568)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10000
+[CLIENT] 0x3600003
+  [CLIENT_ID] 2a701860c-cd88-465f-827c-0107a85e1df6
+  [CLIENT_LEADER] 0x3600001
+  [WINDOW_ROLE] browser
+  [RES_NAME] Navigator
+  [RES_CLASS] Firefox-esr
+  [WM_NAME] 物理演算ライブラリ「Fisica」 - Art Programming Basic — Mozilla Firefox
+  [WM_COMMAND] (1) "firefox-esr"
+  [GEOMETRY] (0,60,1024,659)
+  [GEOMETRY-MAXIMIZED] (0,60,1024,659)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10300
+[CLIENT] 0x3a00001
+  [RES_NAME] microsoft teams - preview
+  [RES_CLASS] Microsoft Teams - Preview
+  [WM_NAME] 0456_プログラミング基礎II＆演習IB (21年度後期 J科 2年) | Microsoft Teams
+  [GEOMETRY] (0,31,1024,688)
+  [GEOMETRY-MAXIMIZED] (0,31,1024,688)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10300
+[CLIENT] 0x2e0014b
+  [CLIENT_LEADER] 0x2e00008
+  [RES_NAME] sun-awt-X11-XFramePeer
+  [RES_CLASS] Processing
+  [WM_NAME] Edatos | Processing 3.4
+  [GEOMETRY] (643,60,394,614)
+  [GEOMETRY-MAXIMIZED] (643,60,394,614)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
